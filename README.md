@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianboca11
-- 👀 I’m interested in Learnign Front End things
+- 👀 I’m interested in Looking for some help in css thins because i cant understand some this like media queries and other stuff like this.
 - 🌱 I’m currently learning HTML CSS Responsive, and a little bit of JS
 - 💞️ I’m looking to collaborate on Some start up or somethin like that
 - 📫 How to reach me you can talk whit me from : briankpo11games@live.com or @brianboca11 (IG)
